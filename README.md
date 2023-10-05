@@ -1,6 +1,6 @@
 # 中文
 
-2寸圈圈机，帮助飞友们实现小机架自由。适配蜗牛阿凡达（测试过V2）和大疆O3图传（未测试过，欢迎反馈）。
+追求高维护性的2寸圈圈机，适配蜗牛阿凡达（测试过V2）和大疆O3图传（未测试过，欢迎反馈）。
 
 ## 规格
 
@@ -8,9 +8,13 @@
 
 * 桨叶尺寸：2 寸
 
+* 电机孔位：9 毫米
+
 * 飞控孔位：25.5 * 25.5 毫米
 
 * 图传孔位：25.5 * 25.5 毫米和 20 * 20 毫米
+
+* 重量：待更新
 
 ## 装配指南
 
@@ -32,7 +36,7 @@
 
 # English
 
-A 2-inch cinewhoop, compatible with Walksnail Avatar (tested with V2) and DJI O3 (not tested, feedback welcome).
+A low-maintenance 2-inch cinewhoop, compatible with Walksnail Avatar (tested with V2) and DJI O3 (not tested, feedback welcome).
 
 ## Specification
 
@@ -40,11 +44,13 @@ A 2-inch cinewhoop, compatible with Walksnail Avatar (tested with V2) and DJI O3
 
 * Prop size: 2 inches
 
+* Motor hole size: 9mm
+
 * FC hole size: 25.5 * 25.5mm
 
 * VTX hole size: 25.5 * 25.5mm and 20 * 20mm
 
-* Weight: (need update)
+* Weight: need update
 
 ## Assembly instructions
 
