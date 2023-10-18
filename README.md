@@ -30,6 +30,8 @@
 
 ![Example 1](snapshot_0.png)
 
+![Example 2](snapshot_1.jpg)
+
 ## 版权
 
 禁止二次售卖图纸。
@@ -65,6 +67,8 @@ A low-maintenance 2-inch cinewhoop, compatible with Walksnail Avatar (tested wit
 ### Snapshot
 
 ![Example 1](snapshot_0.png)
+
+![Example 2](snapshot_1.jpg)
 
 ## Copyright
 
