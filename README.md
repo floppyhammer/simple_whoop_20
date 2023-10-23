@@ -1,6 +1,6 @@
 # 中文
 
-追求高维护性的2寸圈圈机，适配蜗牛阿凡达（测试过V2）和大疆O3图传（未测试过，欢迎反馈）。
+追求可维护性的2寸圈圈机，适配蜗牛阿凡达（测试过V2）和大疆O3图传（未测试过，欢迎反馈）。
 
 ## 规格
 
@@ -10,9 +10,9 @@
 
 * 电机孔位：9 毫米
 
-* 飞控孔位：25.5 * 25.5 毫米
+* 飞控孔位：25.5 毫米、20 毫米
 
-* 图传孔位：25.5 * 25.5 毫米和 20 * 20 毫米
+* 图传孔位：25.5 毫米、20 毫米
 
 * 重量：待更新
 
@@ -24,7 +24,7 @@
 
 * 各种长度的 M2 螺丝 * 若干
 
-* M2 螺帽 * 3
+* M2 螺帽 * 2
 
 ### 示意图
 
@@ -48,9 +48,9 @@ A low-maintenance 2-inch cinewhoop, compatible with Walksnail Avatar (tested wit
 
 * Motor hole size: 9mm
 
-* FC hole size: 25.5 * 25.5mm
+* FC hole size: 25.5mm, 20mm
 
-* VTX hole size: 25.5 * 25.5mm and 20 * 20mm
+* VTX hole size: 25.5mm, 20mm
 
 * Weight: need update
 
@@ -62,7 +62,7 @@ A low-maintenance 2-inch cinewhoop, compatible with Walksnail Avatar (tested wit
 
 * M2 bolt with various lengths * N
 
-* M2 nut * 3
+* M2 nut * 2
 
 ### Snapshot
 
