@@ -1,6 +1,6 @@
 # 中文
 
-追求可维护性的2寸圈圈机，适配蜗牛阿凡达（测试过V2）和大疆O3图传（未测试过，欢迎反馈）。
+追求可维护性的2寸圈圈机，适配19mm摄像头。
 
 ## 规格
 
@@ -14,7 +14,7 @@
 
 * 图传孔位：25.5 毫米、20 毫米
 
-* 重量：待更新
+* 重量：小于35克
 
 ## 装配指南
 
@@ -28,7 +28,7 @@
 
 ### 示意图
 
-![Example 1](snapshot_0.png)
+![Example 1](snapshot_0.jpg)
 
 ![Example 2](snapshot_1.jpg)
 
@@ -38,7 +38,7 @@
 
 # English
 
-A low-maintenance 2-inch cinewhoop, compatible with Walksnail Avatar (tested with V2) and DJI O3 (not tested, feedback welcome).
+A low-maintenance 2-inch cinewhoop, compatible with 19mm cameras.
 
 ## Specification
 
@@ -52,7 +52,7 @@ A low-maintenance 2-inch cinewhoop, compatible with Walksnail Avatar (tested wit
 
 * VTX hole size: 25.5mm, 20mm
 
-* Weight: need update
+* Weight: < 35g
 
 ## Assembly instructions
 
@@ -66,7 +66,7 @@ A low-maintenance 2-inch cinewhoop, compatible with Walksnail Avatar (tested wit
 
 ### Snapshot
 
-![Example 1](snapshot_0.png)
+![Example 1](snapshot_0.jpg)
 
 ![Example 2](snapshot_1.jpg)
 
