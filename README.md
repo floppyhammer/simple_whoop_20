@@ -31,6 +31,7 @@
 ![Example 1](snapshot_0.jpg)
 
 ![Example 2](snapshot_1.jpg)
+(OLD VERSION)
 
 ## 版权
 
@@ -69,6 +70,7 @@ A low-maintenance 2-inch cinewhoop, compatible with 19mm cameras.
 ![Example 1](snapshot_0.jpg)
 
 ![Example 2](snapshot_1.jpg)
+(OLD VERSION)
 
 ## Copyright
 
