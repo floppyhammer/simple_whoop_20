@@ -1,6 +1,6 @@
 # 中文
 
-追求可维护性的2寸圈圈机，适配19mm摄像头。
+追求可维护性的2寸圈圈机，适配19毫米摄像头。
 
 ## 规格
 
@@ -38,27 +38,27 @@
 
 # English
 
-A low-maintenance 2-inch cinewhoop, compatible with 19mm cameras.
+A low-maintenance 2-inch cinewhoop, compatible with 19 mm cameras.
 
 ## Specification
 
-* Wheelbase: 95mm
+* Wheelbase: 95 mm
 
 * Prop size: 2 inches
 
-* Motor hole size: 9mm
+* Motor hole size: 9 mm
 
-* FC hole size: 25.5mm, 20mm
+* FC hole size: 25.5 mm, 20 mm
 
-* VTX hole size: 25.5mm, 20mm
+* VTX hole size: 25.5 mm, 20 mm
 
-* Weight: < 35g
+* Weight: < 35 g
 
 ## Assembly instructions
 
 ### Requisite hardware
 
-* M2 stud with length of 14cm * 4 (diameter of 3.5mm recommended)
+* M2 stud with length of 14 mm * 4 (diameter of 3.5 mm recommended)
 
 * M2 bolt with various lengths * N
 
